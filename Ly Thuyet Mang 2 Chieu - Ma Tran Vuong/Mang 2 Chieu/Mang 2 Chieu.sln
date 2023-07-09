@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nhap Xuat", "Nhap Xuat\Nhap Xuat.vcxproj", "{A8367E1B-D7E3-4294-9D47-14F4ECB72C5E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Xu Ly Co Ban Tren Mang 2 Chieu", "Xu Ly Co Ban Tren Mang 2 Chieu\Xu Ly Co Ban Tren Mang 2 Chieu.vcxproj", "{14CF9B57-C026-4C98-AF7F-A5AE9D127F40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ma Tran Vuong", "Ma Tran Vuong\Ma Tran Vuong.vcxproj", "{A4931C0C-C2C4-4257-AC19-3CE94D05B1D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8367E1B-D7E3-4294-9D47-14F4ECB72C5E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8367E1B-D7E3-4294-9D47-14F4ECB72C5E}.Debug|Win32.Build.0 = Debug|Win32
+		{A8367E1B-D7E3-4294-9D47-14F4ECB72C5E}.Release|Win32.ActiveCfg = Release|Win32
+		{A8367E1B-D7E3-4294-9D47-14F4ECB72C5E}.Release|Win32.Build.0 = Release|Win32
+		{14CF9B57-C026-4C98-AF7F-A5AE9D127F40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14CF9B57-C026-4C98-AF7F-A5AE9D127F40}.Debug|Win32.Build.0 = Debug|Win32
+		{14CF9B57-C026-4C98-AF7F-A5AE9D127F40}.Release|Win32.ActiveCfg = Release|Win32
+		{14CF9B57-C026-4C98-AF7F-A5AE9D127F40}.Release|Win32.Build.0 = Release|Win32
+		{A4931C0C-C2C4-4257-AC19-3CE94D05B1D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4931C0C-C2C4-4257-AC19-3CE94D05B1D3}.Debug|Win32.Build.0 = Debug|Win32
+		{A4931C0C-C2C4-4257-AC19-3CE94D05B1D3}.Release|Win32.ActiveCfg = Release|Win32
+		{A4931C0C-C2C4-4257-AC19-3CE94D05B1D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
